@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "なんでも言っちゃって（feat. JP THE WAVY）",
+  "base_artist": "LEX",
+  "createdAt": "2026-03-08T06:22:39.923448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんでも言っちゃって (feat. JP THE WAVY)",
+      "artist": "LEX",
+      "has_synced": true,
+      "path": "select/01_なんでも言っちゃって_(feat._JP_THE_WAVY)_LEX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんでも言っちゃって (feat. JP THE WAVY)",
+      "artist": "LEX",
+      "has_synced": false,
+      "path": "select/pl_01_なんでも言っちゃって_(feat._JP_THE_WAVY)_LEX.txt"
+    }
+  ]
+}
